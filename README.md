@@ -1,5 +1,8 @@
 # 📚 Sistema de Préstamos de Librería (Express & MySQL)
 
+Hecho por: Cristian Axel Palante Litano
+E_mail: e_2021101381f@uncp.edu.pe
+
 Este es un pequeño proyecto elaborado con **Node.js en Express** para simular un sistema de préstamos en una librería.
 
 El archivo `library-example.sql` incluye un script ejecutable en una base de datos de MySQL para la utilización de esta API REST.
